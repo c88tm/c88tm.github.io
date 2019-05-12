@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="https://typicaltalk.fm/podcast.xml" rel="self" type="application/rss+xml" />
+    <title>Typical Talk</title>
+    <link>https://typicaltalk.fm/</link>
+    <itunes:subtitle>This is Subtitle</itunes:subtitle>
+    <itunes:category text="Comedy" />
+    <itunes:summary>兩個奇怪的人聊聊人生，世界，宇宙。</itunes:summary>
+    <description>兩個奇怪的人聊聊人生，世界，宇宙。</description>
+    <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+    <itunes:author>蔥蔥 and 唐唐</itunes:author>
+    <itunes:owner>
+      <itunes:name>Onino Tsai</itunes:name>
+      <itunes:email>typical.talk.podcast@gmail.com</itunes:email>
+    </itunes:owner>
+    <language>zh-TW</language>
+    <copyright>Copyright © 2019 蔥蔥 and 唐唐</copyright>
+    <itunes:block>plz_not</itunes:block>
+    <itunes:explicit>clean</itunes:explicit>
+    
+    <item>
+      <title>TT #2: 我是哪裡 這裡是誰</title>
+      <itunes:subtitle>
+        欸乾，我會死掉欸！
+      </itunes:subtitle>
+      <itunes:summary>
+        欸乾，我會死掉欸！
+      </itunes:summary>
+      <description><![CDATA[
+        <p>欸乾，我會死掉欸！</p>
+        <a id="more"></a>
+        <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2><p><a href="https://www.amazon.com/Consciousness-Confessions-Romantic-Reductionist-Press/dp/0262017490" target="_blank" rel="noopener">Consciousness: Confessions of a Romantic Reductionist</a></p>
+        <p><a href="https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%BB%AA%E5%BC%97%E6%96%AF%E7%A5%9E%E8%AF%9D" target="_blank" rel="noopener">薛西弗斯的神話</a></p>
+        <p><a href="https://dq.yam.com/post.php?id=10043" target="_blank" rel="noopener">精神死亡</a></p>
+        <p><a href="https://www.google.com/search?q=賓士貓" target="_blank" rel="noopener">賓士貓</a></p>
+      ]]></description>
+      <itunes:author>蔥蔥 and 唐唐</itunes:author>
+      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/2.mp3" length="156624671" type=""/>
+      <link>https://typicaltalk.fm/podcast/2/</link>
+      <guid>https://typicaltalk.fm/podcast/2/</guid>
+      <pubDate>Sat, 04 May 2019 00:04:27 GMT</pubDate>
+      <itunes:duration>3915</itunes:duration>
+    </item>
+    
+    <item>
+      <title>TT #1: 愛就是愛</title>
+      <itunes:subtitle>
+        第一次自己錄Podcast，聊了一下愛情、婚姻、用生命在喇妹子之類的東西。
+      </itunes:subtitle>
+      <itunes:summary>
+        第一次自己錄Podcast，聊了一下愛情、婚姻、用生命在喇妹子之類的東西。
+      </itunes:summary>
+      <description><![CDATA[
+        <p>第一次自己錄Podcast，聊了一下愛情、婚姻、用生命在喇妹子之類的東西。</p>
+        <a id="more"></a>
+      ]]></description>
+      <itunes:author>蔥蔥 and 唐唐</itunes:author>
+      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/1.mp3" length="84720652" type="audio/mp3"/>
+      <link>https://typicaltalk.fm/podcast/1/</link>
+      <guid>https://typicaltalk.fm/podcast/1/</guid>
+      <pubDate>Thu, 04 Apr 2019 11:09:13 GMT</pubDate>
+      <itunes:duration>01:28:13</itunes:duration>
+    </item>
+    
+  </channel>
+</rss>
