@@ -91,7 +91,6 @@
       <guid>https://typicaltalk.fm/podcast/1/</guid>
       <pubDate>Thu, 04 Apr 2019 11:09:13 GMT</pubDate>
       <itunes:duration>01:28:13</itunes:duration>
-      <itunes:block>Yes</itunes:block>
     </item>
     <item>
       <title>Test</title>
@@ -104,7 +103,7 @@
       <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
       <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/1.mp3" length="84720652" type="audio/mp3"/>
       <link>https://typicaltalk.fm/podcast/1/</link>
-      <guid>Typical Talk #1</guid>
+      <guid>1</guid>
       <pubDate>Thu, 04 Apr 2019 11:09:13 GMT</pubDate>
       <itunes:duration>01:28:13</itunes:duration>
       <itunes:block>Yes</itunes:block>
