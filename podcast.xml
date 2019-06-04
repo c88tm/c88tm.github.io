@@ -4,7 +4,7 @@
     <atom:link href="https://typicaltalk.fm/podcast.xml" rel="self" type="application/rss+xml" />
     <title>Typical Talk</title>
     <link>https://typicaltalk.fm/</link>
-    <itunes:subtitle>This is Subtitle</itunes:subtitle>
+    <itunes:subtitle>兩個奇怪的人聊聊人生，世界，宇宙。</itunes:subtitle>
     <itunes:category text="Comedy" />
     <itunes:summary>兩個奇怪的人聊聊人生，世界，宇宙。</itunes:summary>
     <description>兩個奇怪的人聊聊人生，世界，宇宙。</description>
@@ -22,10 +22,10 @@
     <item>
       <title>TT #3: 機器人</title>
       <itunes:subtitle>
-        其實這個節目從頭到尾都是機器人生產出來的啦!逼波逼波
+        其實這個節目從頭到尾都是機器人生產出來的啦！逼波逼波
       </itunes:subtitle>
       <itunes:summary>
-        其實這個節目從頭到尾都是機器人生產出來的啦!逼波逼波
+        其實這個節目從頭到尾都是機器人生產出來的啦！逼波逼波
       </itunes:summary>
       <description><![CDATA[
         <a id="more"></a>
@@ -44,7 +44,7 @@
       <link>https://typicaltalk.fm/podcast/3/</link>
       <guid>https://typicaltalk.fm/podcast/3/</guid>
       <pubDate>Mon, 03 Jun 2019 21:58:02 GMT</pubDate>
-      <itunes:duration></itunes:duration>
+      <itunes:duration>3400</itunes:duration>
     </item>
     
     <item>
