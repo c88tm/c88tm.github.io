@@ -22,56 +22,10 @@
     <item>
       <title>TT #3: 機器人</title>
       <itunes:subtitle>
-        var ap = new APlayer({
-                    element: document.getElementById(&amp;quot;aplayer-edhvDrKu&amp;quot;),
-                    narrow: false,
-                    autoplay: false,
-                    showlrc: false,
-                    music: {
-                      title: &amp;quot;TT #3: 機器人&amp;quot;,
-                      author: &amp;quot;Typical Talk&amp;quot;,
-                      url: &amp;quot;https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/3.mp3&amp;quot;,
-                      pic: &amp;quot;/images/itunes.png&amp;quot;,
-                      lrc: &amp;quot;&amp;quot;
-                    }
-                  });
-                  window.aplayers || (window.aplayers = []);
-                  window.aplayers.push(ap);
       </itunes:subtitle>
       <itunes:summary>
-        var ap = new APlayer({
-                    element: document.getElementById(&amp;quot;aplayer-edhvDrKu&amp;quot;),
-                    narrow: false,
-                    autoplay: false,
-                    showlrc: false,
-                    music: {
-                      title: &amp;quot;TT #3: 機器人&amp;quot;,
-                      author: &amp;quot;Typical Talk&amp;quot;,
-                      url: &amp;quot;https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/3.mp3&amp;quot;,
-                      pic: &amp;quot;/images/itunes.png&amp;quot;,
-                      lrc: &amp;quot;&amp;quot;
-                    }
-                  });
-                  window.aplayers || (window.aplayers = []);
-                  window.aplayers.push(ap);
       </itunes:summary>
       <description><![CDATA[
-        var ap = new APlayer({
-                    element: document.getElementById("aplayer-edhvDrKu"),
-                    narrow: false,
-                    autoplay: false,
-                    showlrc: false,
-                    music: {
-                      title: "TT #3: 機器人",
-                      author: "Typical Talk",
-                      url: "https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/3.mp3",
-                      pic: "/images/itunes.png",
-                      lrc: ""
-                    }
-                  });
-                  window.aplayers || (window.aplayers = []);
-                  window.aplayers.push(ap);
-                
         <a id="more"></a>
         <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2><p><a href="https://news.ltn.com.tw/news/world/breakingnews/2759935" target="_blank" rel="noopener">3D列印心臟</a></p>
         <p><a href="https://zh.wikipedia.org/wiki/%E6%9C%AA%E4%BE%86%E6%97%A5%E8%A8%98" target="_blank" rel="noopener">未來日記</a></p>
@@ -94,22 +48,6 @@
     <item>
       <title>TT #2: 我是哪裡 這裡是誰</title>
       <itunes:subtitle>
-        var ap = new APlayer({
-                    element: document.getElementById(&amp;quot;aplayer-kwfQHfeT&amp;quot;),
-                    narrow: false,
-                    autoplay: false,
-                    showlrc: false,
-                    music: {
-                      title: &amp;quot;TT #2: 我是哪裡 這裡是誰&amp;quot;,
-                      author: &amp;quot;Typical Talk&amp;quot;,
-                      url: &amp;quot;https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/2.mp3&amp;quot;,
-                      pic: &amp;quot;/images/itunes.png&amp;quot;,
-                      lrc: &amp;quot;&amp;quot;
-                    }
-                  });
-                  window.aplayers || (window.aplayers = []);
-                  window.aplayers.push(ap);
-                
         欸乾，我會死掉欸！
       </itunes:subtitle>
       <itunes:summary>
@@ -132,22 +70,6 @@
         欸乾，我會死掉欸！
       </itunes:summary>
       <description><![CDATA[
-        var ap = new APlayer({
-                    element: document.getElementById("aplayer-kwfQHfeT"),
-                    narrow: false,
-                    autoplay: false,
-                    showlrc: false,
-                    music: {
-                      title: "TT #2: 我是哪裡 這裡是誰",
-                      author: "Typical Talk",
-                      url: "https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/2.mp3",
-                      pic: "/images/itunes.png",
-                      lrc: ""
-                    }
-                  });
-                  window.aplayers || (window.aplayers = []);
-                  window.aplayers.push(ap);
-                
         <p>欸乾，我會死掉欸！</p>
         <a id="more"></a>
         <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2><p><a href="https://www.amazon.com/Consciousness-Confessions-Romantic-Reductionist-Press/dp/0262017490" target="_blank" rel="noopener">Consciousness: Confessions of a Romantic Reductionist</a></p>
@@ -167,22 +89,6 @@
     <item>
       <title>TT #1: 愛就是愛</title>
       <itunes:subtitle>
-        var ap = new APlayer({
-                    element: document.getElementById(&amp;quot;aplayer-bfNwXfux&amp;quot;),
-                    narrow: false,
-                    autoplay: false,
-                    showlrc: false,
-                    music: {
-                      title: &amp;quot;TT #1: 愛就是愛&amp;quot;,
-                      author: &amp;quot;Typical Talk&amp;quot;,
-                      url: &amp;quot;https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/1.mp3&amp;quot;,
-                      pic: &amp;quot;/images/itunes.png&amp;quot;,
-                      lrc: &amp;quot;&amp;quot;
-                    }
-                  });
-                  window.aplayers || (window.aplayers = []);
-                  window.aplayers.push(ap);
-                
         第一次自己錄Podcast，聊了一下愛情、婚姻、用生命在喇妹子之類的東西。
       </itunes:subtitle>
       <itunes:summary>
@@ -205,22 +111,6 @@
         第一次自己錄Podcast，聊了一下愛情、婚姻、用生命在喇妹子之類的東西。
       </itunes:summary>
       <description><![CDATA[
-        var ap = new APlayer({
-                    element: document.getElementById("aplayer-bfNwXfux"),
-                    narrow: false,
-                    autoplay: false,
-                    showlrc: false,
-                    music: {
-                      title: "TT #1: 愛就是愛",
-                      author: "Typical Talk",
-                      url: "https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/1.mp3",
-                      pic: "/images/itunes.png",
-                      lrc: ""
-                    }
-                  });
-                  window.aplayers || (window.aplayers = []);
-                  window.aplayers.push(ap);
-                
         <p>第一次自己錄Podcast，聊了一下愛情、婚姻、用生命在喇妹子之類的東西。</p>
         <a id="more"></a>
       ]]></description>
