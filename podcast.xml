@@ -22,7 +22,9 @@
     <item>
       <title>TT #3: 機器人</title>
       <itunes:subtitle>
+        其實這個節目從頭到尾都是機器人生產出來的啦!逼波逼波
       </itunes:subtitle>
+        其實這個節目從頭到尾都是機器人生產出來的啦!逼波逼波
       <itunes:summary>
       </itunes:summary>
       <description><![CDATA[
@@ -51,22 +53,6 @@
         欸乾，我會死掉欸！
       </itunes:subtitle>
       <itunes:summary>
-        var ap = new APlayer({
-                    element: document.getElementById(&amp;quot;aplayer-kwfQHfeT&amp;quot;),
-                    narrow: false,
-                    autoplay: false,
-                    showlrc: false,
-                    music: {
-                      title: &amp;quot;TT #2: 我是哪裡 這裡是誰&amp;quot;,
-                      author: &amp;quot;Typical Talk&amp;quot;,
-                      url: &amp;quot;https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/2.mp3&amp;quot;,
-                      pic: &amp;quot;/images/itunes.png&amp;quot;,
-                      lrc: &amp;quot;&amp;quot;
-                    }
-                  });
-                  window.aplayers || (window.aplayers = []);
-                  window.aplayers.push(ap);
-                
         欸乾，我會死掉欸！
       </itunes:summary>
       <description><![CDATA[
@@ -92,22 +78,6 @@
         第一次自己錄Podcast，聊了一下愛情、婚姻、用生命在喇妹子之類的東西。
       </itunes:subtitle>
       <itunes:summary>
-        var ap = new APlayer({
-                    element: document.getElementById(&amp;quot;aplayer-bfNwXfux&amp;quot;),
-                    narrow: false,
-                    autoplay: false,
-                    showlrc: false,
-                    music: {
-                      title: &amp;quot;TT #1: 愛就是愛&amp;quot;,
-                      author: &amp;quot;Typical Talk&amp;quot;,
-                      url: &amp;quot;https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/1.mp3&amp;quot;,
-                      pic: &amp;quot;/images/itunes.png&amp;quot;,
-                      lrc: &amp;quot;&amp;quot;
-                    }
-                  });
-                  window.aplayers || (window.aplayers = []);
-                  window.aplayers.push(ap);
-                
         第一次自己錄Podcast，聊了一下愛情、婚姻、用生命在喇妹子之類的東西。
       </itunes:summary>
       <description><![CDATA[
