@@ -20,7 +20,7 @@
     <itunes:explicit>clean</itunes:explicit>
     
     <item>
-      <title>TT #3: 機器人</title>
+      <title>TT #3: 請證明你不是機器人</title>
       <itunes:subtitle>
         其實這個節目從頭到尾都是機器人生產出來的啦！逼波逼波
       </itunes:subtitle>
@@ -99,7 +99,7 @@
       </itunes:subtitle>
       <itunes:summary>
       </itunes:summary>
-      <description>></description>
+      <description></description>
       <itunes:author>蔥蔥 and 唐唐</itunes:author>
       <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
       <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/1.mp3" length="84720652" type="audio/mp3"/>
