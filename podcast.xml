@@ -20,14 +20,15 @@
     <itunes:explicit>clean</itunes:explicit>
     
     <item>
-      <title>TT #3: 請證明你不是機器人</title>
+      <title>TT #3: 機器人</title>
       <itunes:subtitle>
-        其實這個節目從頭到尾都是機器人生產出來的啦！逼波逼波
+        其實這個節目從頭到尾都是機器人生產出來的啦!逼波逼波
       </itunes:subtitle>
       <itunes:summary>
-        其實這個節目從頭到尾都是機器人生產出來的啦！逼波逼波
+        其實這個節目從頭到尾都是機器人生產出來的啦!逼波逼波
       </itunes:summary>
       <description><![CDATA[
+        <p>其實這個節目從頭到尾都是機器人生產出來的啦!逼波逼波</p>
         <a id="more"></a>
         <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2><p><a href="https://news.ltn.com.tw/news/world/breakingnews/2759935" target="_blank" rel="noopener">3D列印心臟</a></p>
         <p><a href="https://zh.wikipedia.org/wiki/%E6%9C%AA%E4%BE%86%E6%97%A5%E8%A8%98" target="_blank" rel="noopener">未來日記</a></p>
@@ -40,7 +41,7 @@
       ]]></description>
       <itunes:author>蔥蔥 and 唐唐</itunes:author>
       <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
-      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/3.mp3" length="" type=""/>
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/3.mp3" length="54431383" type=""/>
       <link>https://typicaltalk.fm/podcast/3/</link>
       <guid>https://typicaltalk.fm/podcast/3/</guid>
       <pubDate>Mon, 03 Jun 2019 21:58:02 GMT</pubDate>
@@ -91,22 +92,6 @@
       <guid>https://typicaltalk.fm/podcast/1/</guid>
       <pubDate>Thu, 04 Apr 2019 11:09:13 GMT</pubDate>
       <itunes:duration>01:28:13</itunes:duration>
-    </item>
-    <item>
-      <title>Test</title>
-      <itunes:subtitle>
-      </itunes:subtitle>
-      <itunes:summary>
-      </itunes:summary>
-      <description></description>
-      <itunes:author>蔥蔥 and 唐唐</itunes:author>
-      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
-      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/1.mp3" length="84720652" type="audio/mp3"/>
-      <link>https://typicaltalk.fm/podcast/1/</link>
-      <guid>1</guid>
-      <pubDate>Thu, 04 Apr 2019 11:09:13 GMT</pubDate>
-      <itunes:duration>01:28:13</itunes:duration>
-      <itunes:block>Yes</itunes:block>
     </item>
     
   </channel>
