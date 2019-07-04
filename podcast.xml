@@ -20,6 +20,29 @@
     <itunes:explicit>clean</itunes:explicit>
     
     <item>
+      <title>TT #4: 發大財！</title>
+      <itunes:subtitle>
+        え？台灣大學生畢業平均起薪29k
+      </itunes:subtitle>
+      <itunes:summary>
+        え？台灣大學生畢業平均起薪29k
+      </itunes:summary>
+      <description><![CDATA[
+        <p>え？台灣大學生畢業平均起薪29k</p>
+        <a id="more"></a>
+        <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2><p><a href="https://www.ttv.com.tw/news/view/10805290030900L/573" target="_blank" rel="noopener">大學學歷起薪2萬9</a></p>
+        <p><a href="https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814" target="_blank" rel="noopener">Factfulness: Ten Reasons We’re Wrong About the World–and Why Things Are Better Than You Think</a></p>
+      ]]></description>
+      <itunes:author>蔥蔥 and 唐唐</itunes:author>
+      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/4.mp3" length="66752845" type=""/>
+      <link>https://typicaltalk.fm/podcast/4/</link>
+      <guid>https://typicaltalk.fm/podcast/4/</guid>
+      <pubDate>Thu, 04 Jul 2019 05:08:30 GMT</pubDate>
+      <itunes:duration>4170</itunes:duration>
+    </item>
+    
+    <item>
       <title>TT #3: 請證明你不是機器人</title>
       <itunes:subtitle>
         其實這個節目從頭到尾都是機器人生產出來的啦！逼波逼波
