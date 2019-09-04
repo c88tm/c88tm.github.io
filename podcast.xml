@@ -20,6 +20,32 @@
     <itunes:explicit>clean</itunes:explicit>
     
     <item>
+      <title>TT #6: 空間魔法</title>
+      <itunes:subtitle>
+        回家要發新的一集回家要發新的一集回家要發新的一集，等等我剛剛是不是想做什麼？
+      </itunes:subtitle>
+      <itunes:summary>
+        回家要發新的一集回家要發新的一集回家要發新的一集，等等我剛剛是不是想做什麼？
+      </itunes:summary>
+      <description><![CDATA[
+        <p>回家要發新的一集回家要發新的一集回家要發新的一集，等等我剛剛是不是想做什麼？</p>
+        <a id="more"></a>
+        <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2><p><a href="www.rootlaw.com.tw/LawArticle.aspx?LawID=A040370001007600-0940825">法規及行政規則格式撰寫原則</a></p>
+        <p><a href="https://github.github.com/gfm/" target="_blank" rel="noopener">GFM</a></p>
+        <p><a href="https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299" target="_blank" rel="noopener">Atomic Habits</a></p>
+        <p><a href="https://www.youtube.com/watch?v=_WwctyWIwes" target="_blank" rel="noopener">啾啾鞋討論空間場景的轉換跟記憶的關聯</a></p>
+        <p><a href="https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html" target="_blank" rel="noopener">Religion for the Nonreligious</a></p>
+      ]]></description>
+      <itunes:author>蔥蔥 and 唐唐</itunes:author>
+      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/6.mp3" length="80419610" type=""/>
+      <link>https://typicaltalk.fm/podcast/6/</link>
+      <guid>https://typicaltalk.fm/podcast/6/</guid>
+      <pubDate>Wed, 04 Sep 2019 16:23:46 GMT</pubDate>
+      <itunes:duration>5023</itunes:duration>
+    </item>
+    
+    <item>
       <title>TT #4: 發大財！</title>
       <itunes:subtitle>
         え？台灣大學生畢業平均起薪29k
