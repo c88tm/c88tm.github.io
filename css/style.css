@@ -547,7 +547,7 @@ body {
   }
 }
 .max-width {
-  max-width: 48rem;
+  max-width: 39rem;
 }
 @media (max-width: 480px) {
   .px3 {
@@ -589,11 +589,11 @@ body {
 #header #logo {
   display: inline-block;
   margin-right: 20px;
-  width: 250px;
-  height: 250px;
+  width: 0px;
+  height: 0px;
   border-radius: 5px;
   filter: grayscale(100%);
-  background-size: 250px 250px;
+  background-size: 0px 0px;
   background-repeat: no-repeat;
   -webkit-filter: grayscale(100%);
 }
