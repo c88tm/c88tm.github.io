@@ -20,6 +20,35 @@
     <itunes:explicit>clean</itunes:explicit>
     
     <item>
+      <title>TT #8: 黃色小鴨學習法</title>
+      <itunes:subtitle>
+        呱呱，呱呱呱呱？（欸欸黃色小鴨，我副標題這樣打有人看得懂嗎？）呱呱呱呱呱（對齁，他們聽完應該就看得懂了吧哈哈）
+      </itunes:subtitle>
+      <itunes:summary>
+        呱呱，呱呱呱呱？（欸欸黃色小鴨，我副標題這樣打有人看得懂嗎？）呱呱呱呱呱（對齁，他們聽完應該就看得懂了吧哈哈）
+      </itunes:summary>
+      <description><![CDATA[
+        <p>呱呱，呱呱呱呱？（欸欸黃色小鴨，我副標題這樣打有人看得懂嗎？）呱呱呱呱呱（對齁，他們聽完應該就看得懂了吧哈哈）</p>
+        <a id="more"></a>
+        <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2><p><a href="http://www.cgpgrey.com/blog/i-have-died-many-times" target="_blank" rel="noopener">I have died many times - CGP grey</a></p>
+        <p><a href="https://zh.wikipedia.org/wiki/寧靜禱文" target="_blank" rel="noopener">寧靜禱文</a></p>
+        <p><a href="https://www.edx.org/" target="_blank" rel="noopener">edx</a></p>
+        <p><a href="https://www.thenewslens.com/article/91146" target="_blank" rel="noopener">口語，書寫，電子筆記</a></p>
+        <p><a href="https://www.books.com.tw/products/0010838952" target="_blank" rel="noopener">唐唐的每月推薦</a></p>
+        <p><a href="https://www.books.com.tw/products/0010838952" target="_blank" rel="noopener">ItoA</a></p>
+        <p><a href="https://zh.wikipedia.org/wiki/%E5%B0%8F%E9%BB%84%E9%B8%AD%E8%B0%83%E8%AF%95%E6%B3%95" target="_blank" rel="noopener">可愛的黃色小鴨</a></p>
+        <p><a href="https://www.reddit.com/r/explainlikeimfive/" target="_blank" rel="noopener">r/explainlikeimfive</a></p>
+      ]]></description>
+      <itunes:author>蔥蔥 and 唐唐</itunes:author>
+      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/8.mp3" length="73578463" type="audio/mp3"/>
+      <link>https://typicaltalk.fm/podcast/8/</link>
+      <guid>https://typicaltalk.fm/podcast/8/</guid>
+      <pubDate>Wed, 04 Dec 2019 13:48:18 GMT</pubDate>
+      <itunes:duration>4596</itunes:duration>
+    </item>
+    
+    <item>
       <title>TT #7: 1%的劈腿</title>
       <itunes:subtitle>
         今天是我生日喔！！！
@@ -36,7 +65,7 @@
       ]]></description>
       <itunes:author>蔥蔥 and 唐唐</itunes:author>
       <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
-      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/7.mp3" length="60204686" type=""/>
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/7.mp3" length="60204686" type="audio/mp3"/>
       <link>https://typicaltalk.fm/podcast/7/</link>
       <guid>https://typicaltalk.fm/podcast/7/</guid>
       <pubDate>Fri, 04 Oct 2019 15:58:00 GMT</pubDate>
