@@ -15,9 +15,38 @@
       <itunes:email>typical.talk.podcast@gmail.com</itunes:email>
     </itunes:owner>
     <language>zh-TW</language>
-    <copyright>Copyright © 2019 蔥蔥 and 唐唐</copyright>
+    <copyright>Copyright © 2020 蔥蔥 and 唐唐</copyright>
     <itunes:block>plz_not</itunes:block>
     <itunes:explicit>clean</itunes:explicit>
+    
+    <item>
+      <title>TT #9: 沉沒成本</title>
+      <itunes:subtitle>
+        過去的女朋友們都是沉沒成本啦，再怎麼想也沒用的！哈哈哈嗚嗚嗚嗚
+      </itunes:subtitle>
+      <itunes:summary>
+        過去的女朋友們都是沉沒成本啦，再怎麼想也沒用的！哈哈哈嗚嗚嗚嗚
+      </itunes:summary>
+      <description><![CDATA[
+        <p>過去的女朋友們都是沉沒成本啦，再怎麼想也沒用的！哈哈哈嗚嗚嗚嗚</p>
+        <a id="more"></a>
+        <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2><p><a href="https://en.wikipedia.org/wiki/Alma_mater" target="_blank" rel="noopener">母校，alma mater</a></p>
+        <p><a href="https://zh.wikipedia.org/wiki/%E6%B2%89%E6%B2%A1%E6%88%90%E6%9C%AC" target="_blank" rel="noopener">沉沒成本</a></p>
+        <p><a href="https://www.rayark.com/en/games/sdorica/" target="_blank" rel="noopener">Sdorica</a></p>
+        <p><a href="https://twitter.com/c88tm/status/1218874230923620357?s=20" target="_blank" rel="noopener">阿蔥的色違拉魯拉斯</a></p>
+        <p><a href="https://wiki.52poke.com/zh-hant/%E6%8B%89%E9%B2%81%E6%8B%89%E4%B8%9D" target="_blank" rel="noopener">拉魯拉絲</a></p>
+        <p><a href="http://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/" target="_blank" rel="noopener">選舉公報</a></p>
+        <p><a href="http://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/02%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/109%E5%B9%B4%E7%AC%AC10%E5%B1%86/02%E5%8D%80%E5%9F%9F%E7%AB%8B%E6%B3%95%E5%A7%94%E5%93%A1/05%E8%87%BA%E4%B8%AD%E5%B8%82/%E8%87%BA%E4%B8%AD%E5%B8%82%E7%AB%8B%E5%A7%94%E7%AC%AC5%E9%81%B8%E8%88%89%E5%8D%80.pdf" target="_blank" rel="noopener">選舉公報第10屆立法委員選舉台中市第五選區</a></p>
+        <p><a href="https://zh.wikipedia.org/wiki/QR%E7%A2%BC" target="_blank" rel="noopener">QR Code</a></p>
+      ]]></description>
+      <itunes:author>蔥蔥 and 唐唐</itunes:author>
+      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/9.mp3" length="124900897" type="audio/mp3"/>
+      <link>https://typicaltalk.fm/podcast/9/</link>
+      <guid>https://typicaltalk.fm/podcast/9/</guid>
+      <pubDate>Fri, 14 Feb 2020 12:35:43 GMT</pubDate>
+      <itunes:duration>3902</itunes:duration>
+    </item>
     
     <item>
       <title>TT #8: 黃色小鴨學習法</title>
