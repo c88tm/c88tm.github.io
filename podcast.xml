@@ -20,6 +20,37 @@
     <itunes:explicit>clean</itunes:explicit>
     
     <item>
+      <title>TT #11: 一千零一本書</title>
+      <itunes:subtitle>
+        消失的兩個月裡，唐唐看完三本書，阿蔥在找小夥伴，順便分享割包皮經驗，一個兼具深度與衛教的優質節目。
+      </itunes:subtitle>
+      <itunes:summary>
+        消失的兩個月裡，唐唐看完三本書，阿蔥在找小夥伴，順便分享割包皮經驗，一個兼具深度與衛教的優質節目。
+      </itunes:summary>
+      <description><![CDATA[
+        <p>消失的兩個月裡，唐唐看完三本書，阿蔥在找小夥伴，順便分享割包皮經驗，一個兼具深度與衛教的優質節目。</p>
+        <a id="more"></a>
+        <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2><p><a href="https://www.storm.mg/lifestyle/1287352" target="_blank" rel="noopener">為何醫師平常穿白袍，開刀卻換成綠色手術袍？</a></p>
+        <p><a href="https://medium.com/@blizzard268/schrödingers-instagram-c0b9f59b4b6b" target="_blank" rel="noopener">唐唐文章: Schrödinger’s Instagram</a></p>
+        <p><a href="https://www.nownews.com/wp-content/uploads/2020/04/1587626571-0c2bd9aed8eeb3436b7cf20de8ee9c0c.jpg" target="_blank" rel="noopener">時間管理</a></p>
+        <p><a href="https://en.wikipedia.org/wiki/Instruction_pipelining" target="_blank" rel="noopener">pipeline</a></p>
+        <p><a href="https://www.books.com.tw/products/0010678457" target="_blank" rel="noopener">槍炮、病菌與鋼鐵：人類社會的命運</a></p>
+        <p><a href="https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078" target="_blank" rel="noopener">Behave</a></p>
+        <p><a href="https://images.plurk.com/1qZEQSznEpOQ6VJJ2ojDJ.jpg" target="_blank" rel="noopener">教大家變偽娘</a></p>
+        <p><a href="https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273/ref=dp_ob_title_bk" target="_blank" rel="noopener">Man’s Search for Meaning</a></p>
+        <p><a href="https://en.wikipedia.org/wiki/Logotherapy" target="_blank" rel="noopener">Logotherapy</a></p>
+        <p><a href="https://www.books.com.tw/products/0010730123" target="_blank" rel="noopener">&lt;安娜．卡列尼娜&gt;</a></p>
+      ]]></description>
+      <itunes:author>蔥蔥 and 唐唐</itunes:author>
+      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/11.mp3" length="76563656" type="audio/mp3"/>
+      <link>https://typicaltalk.fm/podcast/11/</link>
+      <guid>https://typicaltalk.fm/podcast/11/</guid>
+      <pubDate>Mon, 04 May 2020 09:31:57 GMT</pubDate>
+      <itunes:duration>4783</itunes:duration>
+    </item>
+    
+    <item>
       <title>TT #10: 妹子能量</title>
       <itunes:subtitle>
         [問卦]我得了一種沒有妹子就會死掉的病，乾五八卦？
@@ -36,7 +67,7 @@
       ]]></description>
       <itunes:author>蔥蔥 and 唐唐</itunes:author>
       <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
-      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/10.mp3" length="" type=""/>
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/10.mp3" length="75599723" type="audio/mp3"/>
       <link>https://typicaltalk.fm/podcast/10/</link>
       <guid>https://typicaltalk.fm/podcast/10/</guid>
       <pubDate>Wed, 04 Mar 2020 13:19:47 GMT</pubDate>
