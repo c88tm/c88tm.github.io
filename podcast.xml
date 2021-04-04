@@ -20,6 +20,50 @@
     <itunes:explicit>clean</itunes:explicit>
 
     <item>
+      <title>TT #19: 洋芋片演化論</title>
+      <itunes:subtitle>
+        「食物也會演化，好的食物沒有想被吃的願望，因為健康的食物設計來不是要讓你依賴它的；壞的食物在意的是自己有沒有被吃掉，而沒有在意吃它的人的健康。
+只有最容易被吃掉的食物會留在市場上。」
+      </itunes:subtitle>
+      <itunes:summary>
+        「食物也會演化，好的食物沒有想被吃的願望，因為健康的食物設計來不是要讓你依賴它的；壞的食物在意的是自己有沒有被吃掉，而沒有在意吃它的人的健康。
+只有最容易被吃掉的食物會留在市場上。」
+      </itunes:summary>
+      <description><![CDATA[
+        <p>「食物也會演化，好的食物沒有想被吃的願望，因為健康的食物設計來不是要讓你依賴它的；壞的食物在意的是自己有沒有被吃掉，而沒有在意吃它的人的健康。
+只有最容易被吃掉的食物會留在市場上。」</p>
+        <a id="more"></a>
+        <h2 id="Timestamp"><a href="#Timestamp" class="headerlink" title="Timestamp"></a>Timestamp</h2>
+        <p>00:00 洋芋片</p>
+        <p>04:38 解決問題 vs 消解問題</p>
+        <p>34:20 原初想法 & 上進之難 & 食物演化論</p>
+        <p>1:13:39 原子習慣's 維持系統 vs 達成目標 & Think Again</p>
+        <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2>
+        <p><a href="https://pttpedia.fandom.com/zh/wiki/Yoyodiy" target="_blank" rel="noopener">Yoyodiy</a></p>
+        <p><a href="https://blizzard268.medium.com/%E9%86%AB%E5%AD%B8%E6%95%99%E8%82%B2%E7%B5%B1%E5%90%88%E5%88%86%E6%9E%90-a-meta-analysis-of-medical-education-in-taiwan-b72b1275903e" target="_blank" rel="noopener">唐唐的文章 again</a></p>
+        <p><a href="https://typicaltalk.fm/podcast/8/" target="_blank" rel="noopener">黃色小鴨學習法</a></p>
+        <p><a href="https://www.books.com.tw/products/0010855836" target="_blank" rel="noopener">超速學習</a></p>
+        <p><a href="https://zh.wikipedia.org/wiki/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B" target="_blank" rel="noopener">Pair Programming</a></p>
+        <p><a href="https://wiki.mbalib.com/zh-tw/%E8%B4%B9%E6%9B%BC%E5%AD%A6%E4%B9%A0%E6%B3%95" target="_blank" rel="noopener">費曼學習法</a></p>
+        <p><a href="https://zh.wikipedia.org/wiki/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6_(%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%B8)" target="_blank" rel="noopener">Garbage Collection</a></p>
+        <p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7020057/" target="_blank" rel="noopener">Benefits and Risks of Moderate Alcohol Consumption on Cardiovascular Disease: Current Findings and Controversies</a></p>
+        <p><a href="https://en.wikipedia.org/wiki/Lemma_(mathematics)" target="_blank" rel="noopener">Lemma</a></p>
+        <p><a href="https://www.youtube.com/watch?v=B2Zz2siWgNc" target="_blank" rel="noopener">卡迪那一款洋芋片致癌物超標</a></p>
+        <p><a href="https://www.youtube.com/watch?v=wv2Crv5ldQw" target="_blank" rel="noopener">文森說書: 我們為何吃太多？</a></p>
+        <p><a href="https://vocus.cc/bluepigeonnn/6048c868fd8978000102d215" target="_blank" rel="noopener">健康的油可以右轉蒼藍鴿的方格子文章「脂肪的真相，什麼油才是健康好油？」</a></p>
+        <p><a href="https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107" target="_blank" rel="noopener">Think Again</a></p>
+        <p><a href="https://www.books.com.tw/products/0010598217" target="_blank" rel="noopener">無瑕的程式碼: 番外篇</a></p>
+      ]]></description>
+      <itunes:author>蔥蔥 and 唐唐</itunes:author>
+      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/19.mp3" length="97914478" type="audio/mp3"/>
+      <link>https://typicaltalk.fm/</link>
+      <guid>https://typicaltalk.fm/podcast/19/</guid>
+      <pubDate>Sun, 04 Apr 2021 15:00:00 GMT</pubDate>
+      <itunes:duration>6701</itunes:duration>
+    </item>
+
+    <item>
       <title>TT #18: 健康精神金三角</title>
       <itunes:subtitle>
         填問卷，求你了。
