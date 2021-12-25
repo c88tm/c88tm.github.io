@@ -20,6 +20,70 @@
     <itunes:explicit>clean</itunes:explicit>
 
     <item>
+      <title>TT #24: 隱居</title>
+      <itunes:subtitle>
+        給你空白的一天，你會怎麼安排？
+      </itunes:subtitle>
+      <itunes:summary>
+        給你空白的一天，你會怎麼安排？
+      </itunes:summary>
+      <description><![CDATA[
+        <p>給你空白的一天，你會怎麼安排？</p>
+        <a id="more"></a>
+        <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2>
+        <p><a href="https://www.netflix.com/title/80184771" target="_blank" rel="noopener">蓋茲之道</a></p>
+        <p><a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem" target="_blank" rel="noopener">旅行推銷員問題</a></p>
+        <p><a href="https://www.youtube.com/watch?v=1pmBjIZ20pE" target="_blank" rel="noopener">What is the Traveling Salesman Problem?</a></p>
+        <p><a href="https://zh.wikipedia.org/wiki/NP%E5%AE%8C%E5%85%A8" target="_blank" rel="noopener">NP complete</a></p>
+        <p><a href="https://www.amazon.com/Lord-Rings-Illustrated-J-R-R-Tolkien/dp/0358653037/" target="_blank" rel="noopener">The Lord of the Rings Illustrated Edition</a></p>
+      ]]></description>
+      <itunes:author>蔥蔥 and 唐唐</itunes:author>
+      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/24.mp3" length="58936959" type="audio/mp3"/>
+      <link>https://typicaltalk.fm/</link>
+      <guid>https://typicaltalk.fm/podcast/24/</guid>
+      <pubDate>Fri, 24 Dec 2021 15:00:00 GMT</pubDate>
+      <itunes:duration>4120</itunes:duration>
+    </item>
+
+    <item>
+      <title>TT #23: 基地</title>
+      <itunes:subtitle>
+        艾西莫夫的 <基地> 在 Apple TV 上架啦！一起來朝聖經典科幻小說！
+      </itunes:subtitle>
+      <itunes:summary>
+        艾西莫夫的 <基地> 在 Apple TV 上架啦！一起來朝聖經典科幻小說！
+      </itunes:summary>
+      <description><![CDATA[
+        <p>艾西莫夫的 <基地> 在 Apple TV 上架啦！一起來朝聖經典科幻小說！</p>
+        <a id="more"></a>
+        <h2 id="Timestamp"><a href="#Timestamp" class="headerlink" title="Timestamp"></a>Timestamp</h2>
+        <p>00:00 基地 on Apple TV</p>
+        <p>35:26 蔥蔥 as a professional software engineer 挑鍵盤</p>
+        <p>33:06 蔥蔥無系統的日子</p>
+        <p>1:13:52 雜交的人類</p>
+        <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2>
+        <p><a href="https://drop.com/buy/preonic-mechanical-keyboard" target="_blank" rel="noopener">DROP + OLKB PREONIC KEYBOARD MX KIT V3</a></p>
+        <p><a href="https://ergodox-ez.com/" target="_blank" rel="noopener">MOONLANDER MARK1</a></p>
+        <p><a href="https://www.amazon.com/Microsoft-Ergonomic-Keyboard-Business-5KV-00001/dp/B00CYX26BC?th=1" target="_blank" rel="noopener">Microsoft Sculpt Ergonomic Keyboard for Business</a></p>
+        <p><a href="https://www.zeczec.com/projects/x-bows" target="_blank" rel="noopener">X-Bows</a></p>
+        <p><a href="https://24h.pchome.com.tw/prod/DSAR1Z-A900BGHEC?gclid=CjwKCAjw8KmLBhB8EiwAQbqNoJEfacjYFZwcJ3mJlFvfDghjtHpj5wRCSKWs7FZa6Awo6u5vCcGUcRoC_7UQAvD_BwE" target="_blank" rel="noopener">羅技 MX Vertical 垂直滑鼠</a></p>
+        <p><a href="https://www.2doapp.com/" target="_blank" rel="noopener">2Do list</a></p>
+        <p><a href="https://zh.wikipedia.org/wiki/AutoHotkey" target="_blank" rel="noopener">Auto Hotkey</a></p>
+        <p><a href="https://www.books.com.tw/products/0010878817" target="_blank" rel="noopener">盲眼鐘錶匠</a></p>
+        <p><a href="https://www.books.com.tw/products/0010762929" target="_blank" rel="noopener">樂園的復歸？：遠古時代的性如何影響今日的我們</a></p>
+        <p><a href="https://www.youtube.com/watch?v=LJhklPJz9U8" target="_blank" rel="noopener">Are we sexual omnivores?</a></p>
+      ]]></description>
+      <itunes:author>蔥蔥 and 唐唐</itunes:author>
+      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/23.mp3" length="104469694" type="audio/mp3"/>
+      <link>https://typicaltalk.fm/</link>
+      <guid>https://typicaltalk.fm/podcast/23/</guid>
+      <pubDate>Thu, 23 Dec 2021 15:00:00 GMT</pubDate>
+      <itunes:duration>6953</itunes:duration>
+    </item>
+
+    <item>
       <title>TT #22: 晚餐要吃什麼</title>
       <itunes:subtitle>
         也許我們都需要一個信仰可以告訴我們晚餐要吃什麼。
