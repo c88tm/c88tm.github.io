@@ -20,6 +20,60 @@
     <itunes:explicit>clean</itunes:explicit>
 
     <item>
+      <title>TT #26: 腦本</title>
+      <itunes:subtitle>
+        用腦袋記住重要的事情？不不不我們這裡不這樣做的。
+      </itunes:subtitle>
+      <itunes:summary>
+        用腦袋記住重要的事情？不不不我們這裡不這樣做的。
+      </itunes:summary>
+      <description><![CDATA[
+        <p>用腦袋記住重要的事情？不不不我們這裡不這樣做的。</p>
+        <a id="more"></a>
+        <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2>
+        <p><a href="https://i.imgur.com/CFm4SuW.png" target="_blank" rel="noopener">開場數學題</a></p>
+        <p><a href="https://www.youtube.com/watch?v=vNHP_65Nan4" target="_blank" rel="noopener">正月調</a></p>
+        <p><a href="https://www.powerlanguage.co.uk/wordle/" target="_blank" rel="noopener">Wordle</a></p>
+        <p><a href="https://nerdlegame.com/" target="_blank" rel="noopener">Nerdle</a></p>
+        <p><a href="https://words.hk/static/bopomofo-wordle/" target="_blank" rel="noopener">ㄅㄆㄇㄈ-Wordle</a></p>
+        <p><a href="https://qntm.org/files/absurdle/absurdle.html" target="_blank" rel="noopener">absurdle</a></p>
+        <p><a href="https://mzh.moegirl.org.cn/zh-tw/%E6%95%B0%E8%B4%A8%E6%95%B0" target="_blank" rel="noopener">數質數</a></p>
+        <p><a href="https://www.netflix.com/title/81280926" target="_blank" rel="noopener">Netflix 冥想正念指南</a></p>
+      ]]></description>
+      <itunes:author>蔥蔥 and 唐唐</itunes:author>
+      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/26.mp3" length="60078519" type="audio/mp3"/>
+      <link>https://typicaltalk.fm/</link>
+      <guid>https://typicaltalk.fm/podcast/26/</guid>
+      <pubDate>Fri, 4 Mar 2022 15:00:00 GMT</pubDate>
+      <itunes:duration>4065</itunes:duration>
+    </item>
+
+    <item>
+      <title>TT #25: HomHom</title>
+      <itunes:subtitle>
+        從宏宏事件看蔥蔥和唐唐的愛情觀與婚姻觀。祝大家聖誕節快樂。
+      </itunes:subtitle>
+      <itunes:summary>
+        從宏宏事件看蔥蔥和唐唐的愛情觀與婚姻觀。祝大家聖誕節快樂。
+      </itunes:summary>
+      <description><![CDATA[
+        <p>從宏宏事件看蔥蔥和唐唐的愛情觀與婚姻觀。祝大家聖誕節快樂。</p>
+        <a id="more"></a>
+        <h2 id="Show-Notes"><a href="#Show-Notes" class="headerlink" title="Show Notes"></a>Show Notes</h2>
+        <p><a href="https://www.ptt.cc/bbs/Gossiping/M.1639957876.A.7BF.html" target="_blank" rel="noopener">李靚蕾王力宏爭議(錘)懶人包</a></p>
+        <p><a href="https://blizzard268.medium.com/%E8%AB%96%E5%8A%88%E8%85%BF%E5%A4%96%E9%81%87%E5%A6%82%E6%AD%A4%E9%A0%BB%E7%B9%81-ab9ac6f8fdd" target="_blank" rel="noopener">論劈腿外遇如此頻繁</a></p>\
+      ]]></description>
+      <itunes:author>蔥蔥 and 唐唐</itunes:author>
+      <itunes:image href="https://typicaltalk.fm/images/itunes.png" />
+      <enclosure url="https://storage.googleapis.com/staging.onino-try-gcp234608.appspot.com/25.mp3" length="37862275" type="audio/mp3"/>
+      <link>https://typicaltalk.fm/</link>
+      <guid>https://typicaltalk.fm/podcast/25/</guid>
+      <pubDate>Sat, 25 Dec 2021 15:00:00 GMT</pubDate>
+      <itunes:duration>2704</itunes:duration>
+    </item>
+
+    <item>
       <title>TT #24: 隱居</title>
       <itunes:subtitle>
         給你空白的一天，你會怎麼安排？
